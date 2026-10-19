@@ -8,4 +8,3 @@
 | Anwar Palacio | **Frontend y diseño OOHDM.** Vistas de catálogo, carrito con formulario y confirmación, y consulta de pedidos; consumo de la API con `fetch`; carrito en `localStorage`; estados de carga, vacío y error; estilos y versión para pantallas pequeñas; diseño conceptual, navegacional e interfaz abstracta (diagramas y bocetos); recorrido de pruebas en el navegador y capturas de evidencia. | `views/`, `public/`, `docs/OOHDM.md`, `docs/bocetos/`, `docs/PRUEBAS.md`, `docs/evidencias/` |
 | Ambos | README, revisión cruzada del código del otro, guion y preparación de la sustentación. | `README.md`, `docs/GUION_SUSTENTACION.md` |
 
-Ambos integrantes revisaron el proyecto completo y pueden explicar cualquier capa en la sustentación.
